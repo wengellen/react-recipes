@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+form {
+  display: flex;
+  flex-flow: column;
+  width: 90vw;
+  margin: 4rem auto;
+}
